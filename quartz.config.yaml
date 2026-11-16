@@ -22,7 +22,7 @@ configuration:
     colors:
       lightMode:
         light: "#faf8f8"
-        lightgray: "#e5e5e5"
+        lightgray: "#c4c4c4"
         gray: "#b8b8b8"
         darkgray: "#4e4e4e"
         dark: "#2b2b2b"
@@ -32,7 +32,7 @@ configuration:
         textHighlight: "#fff23688"
       darkMode:
         light: "#161618"
-        lightgray: "#393639"
+        lightgray: "#3a3a42"
         gray: "#646464"
         darkgray: "#d4d4d4"
         dark: "#ebebec"
@@ -108,7 +108,7 @@ plugins:
   - source: "@quartz-community/quartz-fonts"
     enabled: true
   - source: "@quartz-themes/core"
-    enabled: true
+    enabled: false
     options:
       theme: default
       mode: both
@@ -154,6 +154,11 @@ plugins:
       priority: 50
   - source: "@quartz-community/graph"
     enabled: true
+    options: 
+      localGraph:
+        depth: -1
+      globalGraph:
+        depth: -1
     layout:
       position: right
       priority: 10
@@ -220,8 +225,9 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        Email: mailto:winsonychen@gmail.com
+        GitHub: https://github.com/wyck-psych
+        LinkedIn: https://linkedin.com/in/winsonychen
     layout:
       position: footer
       priority: 50
