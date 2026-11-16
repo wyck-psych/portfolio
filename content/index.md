@@ -6,7 +6,7 @@ title: Psychometrics Portfolio
 
 This is my attempt at documenting my thoughts as I explore various topics related to psychometrics, data science, and ML/DL methods. The portfolio largely consists of a set of interconnected notes. This website was built using [Quartz](https://quartz.jzhao.xyz/) and [Obsidian](https://obsidian.md/), and hosted using GitHub Pages. 
 
-[[(1) The Big Picture]]
+[[The Big Picture]]
 
 ---
 ### About me
