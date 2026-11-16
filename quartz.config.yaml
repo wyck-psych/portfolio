@@ -42,6 +42,7 @@ configuration:
         textHighlight: "#b3aa0288"
   links:
     markdownLinkResolution: shortest
+    openLinksInNewTab: true
   contentIndex:
     enableSiteMap: true
     enableRSS: true
