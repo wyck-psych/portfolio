@@ -8,7 +8,7 @@ Data for detection can be broadly categorized into response data, response parad
 **Response metadata** include additional information about the response beyond the content of the response or the response process, such as network, software, or hardware information. Response metadata is not as central to AI response detection, but response metadata can be helpful for identifying potential fraud, such as when multiple responses share the same IP address or have suspiciously similar process features. 
 
 ---
-Next [[Response Data]]
-Next [[Response Paradata]]
-Next [[Response Metadata]]
+Next [[(2.1) Response Data]]
+Next [[(2.2) Response Paradata]]
+Next [[(2.3) Response Metadata]]
 

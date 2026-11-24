@@ -11,7 +11,7 @@ Figure 1: Image from https://www.cloudresearch.com/resources/blog/bot-detection-
 **Fourth, detection can be thought of in terms of joint distributions**. Whichever features we choose to use, they will form joint probability distributions in which certain combinations of features are more common than others. Some joint distribution patterns are associated with genuine or anomalous responding. Thus, the task of building a detector can be thought of as choosing/engineering features which will lead to the most distinguishability between genuine and anomalous joint distributions, which then leads to the most accurate and reliable detection. The difficulty is that the joint distributions in observed data contain a significant amount of both construct-relevant variance (i.e., real variation in genuine or anomalous response behaviors) and construct-irrelevant variance (i.e., noise or measurement error). 
 
 ---
-Next [[Methods for Detection]]
-Next [[Data for Detection]]
-Next [[Evaluating Detection Performance]]
+Next [[(2) Data for Detection]]
+Next [[(3) Methods for Detection]]
+Next [[(4) Evaluating Detection Performance]]
 
